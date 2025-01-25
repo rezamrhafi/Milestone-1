@@ -1,32 +1,45 @@
 # Milestone-1
 
 ## Bussiness Understanding
-### Identifikasi Masalah
-#### Latar Belakang
-Gaya hidup mahasiswa merupakan salah satu aspek penting yang dapat memengaruhi keberhasilan akademik mereka. Berbagai aktivitas harian, seperti waktu belajar, partisipasi dalam kegiatan ekstrakurikuler, pola tidur, interaksi sosial, hingga kebiasaan olahraga, secara langsung maupun tidak langsung dapat berdampak pada performa akademik yang diukur melalui Indeks Prestasi Kumulatif (GPA). Pemahaman mendalam mengenai pola-pola ini dapat memberikan wawasan berharga untuk meningkatkan keseimbangan antara aktivitas akademik dan non-akademik, serta mendukung pengelolaan stres yang lebih baik.
 
-#### SMART
-specific = mengurangi stress level pada students tanpa mengurangi GPA students secara signifikan
+## 📚 Latar Belakang
+Gaya hidup mahasiswa merupakan salah satu aspek penting yang dapat memengaruhi keberhasilan akademik mereka. Berbagai aktivitas harian, seperti:
+- Waktu belajar
+- Partisipasi dalam kegiatan ekstrakurikuler
+- Pola tidur
+- Interaksi sosial
+- Kebiasaan olahraga
 
-measurable = melakukan pengurangan jam belajar perhari dan/atau penambahan jam tidur perhari agar rata-rata stress level dari 51% menjadi 30%
+secara langsung maupun tidak langsung dapat berdampak pada performa akademik yang diukur melalui Indeks Prestasi Kumulatif (GPA). Pemahaman mendalam mengenai pola-pola ini dapat memberikan wawasan berharga untuk meningkatkan keseimbangan antara aktivitas akademik dan non-akademik, serta mendukung pengelolaan stres yang lebih baik.
 
-Achievable = berdasarkan dataset, menurunkan stress level dengan cara menurunkan jam belajar/meningkatkan jam tidur/menurunkan aktivitas fisik itu dapat tercapai
+---
 
-Relevant = mengurangi level stress students sangat dibutuhkan untuk meningkatkan kesehatan mental dan produktivitas mereka agar dapat mendukung pencapaian akademik
+## 🎯 Tujuan SMART
+- **Specific**: Mengurangi tingkat stres mahasiswa tanpa mengurangi nilai GPA secara signifikan.
+- **Measurable**: Menurunkan tingkat stres rata-rata dari 51% menjadi 30% dengan mengurangi jam belajar per hari dan/atau meningkatkan jam tidur per hari.
+- **Achievable**: Berdasarkan dataset, perubahan gaya hidup seperti penurunan jam belajar, penambahan jam tidur, dan pengurangan aktivitas fisik dapat secara signifikan menurunkan tingkat stres.
+- **Relevant**: Mengurangi tingkat stres sangat penting untuk meningkatkan kesehatan mental dan produktivitas mahasiswa agar mendukung pencapaian akademik.
+- **Time-bound**: Menyelesaikan proyek ini dalam waktu 3 bulan.
 
-time bound = menyelesaikan projek ini dalam 3 bulan kedepan, untuk menurunkan stress level dengan mengubah lifestyle students
+---
 
-### Problem Statement 
-terdapat 51% students mengalami high level stress akibat tekanan akademik yang dapat berdampak negatif terhadap kesehatan mental dan fisik mereka. level stress yang tinggi, jika tidak diatasi dapat menurunkan produktivitas dan merusak keseimbangan gaya hidup mereka. terdapat faktor-faktor yang dapat mempengaruhi level stress students seperti jam belajar, durasi tidur dan aktivitas fisik. tujuan dilakukan projek ini adalah untuk mencari strategi yang efektif untuk mengurangi level stress students tanpa menurunkan nilai akademik mereka. dengan melihat pola gaya hidup dan level stress yang ada pada dataset, dapat diberikan saran perubahan gaya hidup yang dapat mengurangi level stress rata-rata dari 51% menjadi 30% dalam waktu 3 bulan dengan menemukan hubungan antara pengurangan jam belajar, penambahan jam tidur dan perubaha waktu aktivitas fisik.
+## ❓ Problem Statement
+Sebanyak 51% mahasiswa mengalami tingkat stres yang tinggi akibat tekanan akademik. Hal ini dapat berdampak negatif terhadap:
+- **Kesehatan mental**
+- **Kesehatan fisik**
+- **Produktivitas akademik**
+- **Keseimbangan gaya hidup**
 
-Referensi : https://www.kaggle.com/datasets/steve1215rogg/student-lifestyle-dataset
+Faktor-faktor seperti jam belajar, durasi tidur, dan aktivitas fisik memengaruhi tingkat stres. Proyek ini bertujuan untuk:
+- Menemukan strategi efektif untuk mengurangi tingkat stres mahasiswa tanpa menurunkan nilai akademik mereka.
+- Memberikan saran perubahan gaya hidup berdasarkan data yang tersedia untuk menurunkan tingkat stres rata-rata dari 51% menjadi 30% dalam 3 bulan.
 
+---
 
+## 📊 Dataset
+Dataset yang digunakan dalam proyek ini diambil dari Kaggle:
+[Student Lifestyle Dataset](https://www.kaggle.com/datasets/steve1215rogg/student-lifestyle-dataset)
 
-### Penjabaran 5W+1H
-apakah ada hubungan antara jam tidur per hari dan level stres siswa?
-bagaimana pengaruh aktivitas fisik terhadap level stress siswa ?
-apakah siswa dengan jam belajar sedikit memiliki level stress yang rendah dibanding dengan siswa dengan jam belajar yang lebih banyak?
-Apakah jam belajar per hari dapat mempengaruhi nilai GPA?
-Bagaimana durasi tidur, durasi belajar, dan aktivitas fisik dapat memengaruhi level stres siswa?
-Apakah siswa dengan level stress tinggi memiliki nilai GPA yang tinggi ?
+Dataset ini mencakup berbagai atribut gaya hidup mahasiswa yang dapat dianalisis untuk menemukan pola dan hubungan antara gaya hidup, tingkat stres, dan pencapaian akademik.
+
+---
