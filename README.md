@@ -1,7 +1,7 @@
 # Visualisasi Data Student Lifestyles
 Repositori ini berisi proyek visualisasi data menggunakan Tableau. Proyek ini bertujuan untuk mengeksplorasi konsep penting dalam visualisasi data, dengan fokus pada pembuatan representasi visual yang jelas dan berdampak dari data yang tersedia. Repositori ini mencakup file Jupyter Notebook yang menjelaskan proses secara menyeluruh, mulai dari eksplorasi data hingga menghasilkan visualisasi yang informatif.
 
-## Latar Belakang Masalah
+## Latar Belakang Masalah 📋
 
 Gaya hidup mahasiswa merupakan salah satu aspek penting yang dapat memengaruhi keberhasilan akademik mereka. Berbagai aktivitas harian, seperti:
 - Waktu belajar
@@ -13,6 +13,23 @@ Gaya hidup mahasiswa merupakan salah satu aspek penting yang dapat memengaruhi k
 secara langsung maupun tidak langsung dapat berdampak pada performa akademik yang diukur melalui Indeks Prestasi Kumulatif (GPA). Pemahaman mendalam mengenai pola-pola ini dapat memberikan wawasan berharga untuk meningkatkan keseimbangan antara aktivitas akademik dan non-akademik, serta mendukung pengelolaan stres yang lebih baik.
 
 ---
+## Project Overview 📝
+
+Dalam proyek ini, kami menggunakan **Tableau** untuk menganalisis dan memvisualisasikan data, dengan tujuan menemukan wawasan serta menyampaikan temuan secara efektif. Beberapa langkah utama yang dicakup dalam proyek ini adalah:
+
+1. **Import Libraries dan Eksplorasi Data**:
+    - Memuat dataset dan melakukan eksplorasi awal untuk memahami struktur dan karakteristik data.
+
+2. **Visualisasi**:
+    - Membuat berbagai jenis visualisasi seperti diagram batang, peta geografis, dan bagan lainnya untuk menganalisis pola dan tren data.
+
+3. **Analisis**:
+    - Menginterpretasikan hasil visualisasi untuk mengidentifikasi insight yang dapat diterapkan pada pengambilan keputusan bisnis atau strategi lain.
+
+---
+## Latar Belakang Masalah 🧐
+
+Pendapatan beberapa bulan terakhir di toko tidak ada kenaikan atau penurunan yang signifikan. Sehingga harus mencari cara untuk meningkatkan pendapatan. Meskipun toko dapat mempertahankan pendapatan pada level yang sama, ketidakmampuan untuk meningkatkan pendapatan dapat mengindikasikan adanya masalah dalam strategi bisnis dan pemasaran. Menemukan strategi yang tepat adalah cara yang bisa dilakukan toko mengatasi stagnansi pendapatan dan mencapai pertumbuhan yang berkelanjutan.
 
 ## 🎯 Tujuan SMART
 - **Specific**: Mengurangi tingkat stres mahasiswa tanpa mengurangi nilai GPA secara signifikan.
