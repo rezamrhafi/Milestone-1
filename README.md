@@ -1,8 +1,8 @@
-# Milestone-1
+# Visualisasi Data Student Lifestyles
+Repositori ini berisi proyek visualisasi data menggunakan Tableau. Proyek ini bertujuan untuk mengeksplorasi konsep penting dalam visualisasi data, dengan fokus pada pembuatan representasi visual yang jelas dan berdampak dari data yang tersedia. Repositori ini mencakup file Jupyter Notebook yang menjelaskan proses secara menyeluruh, mulai dari eksplorasi data hingga menghasilkan visualisasi yang informatif.
 
-## Bussiness Understanding
+## Latar Belakang Masalah
 
-## 📚 Latar Belakang
 Gaya hidup mahasiswa merupakan salah satu aspek penting yang dapat memengaruhi keberhasilan akademik mereka. Berbagai aktivitas harian, seperti:
 - Waktu belajar
 - Partisipasi dalam kegiatan ekstrakurikuler
