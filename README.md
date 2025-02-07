@@ -1,6 +1,11 @@
 # Visualisasi Data Student Lifestyles
 Repositori ini berisi proyek visualisasi data menggunakan Tableau. Proyek ini bertujuan untuk mengeksplorasi konsep penting dalam visualisasi data, dengan fokus pada pembuatan representasi visual yang jelas dan berdampak dari data yang tersedia. Repositori ini mencakup file Jupyter Notebook yang menjelaskan proses secara menyeluruh, mulai dari eksplorasi data hingga menghasilkan visualisasi yang informatif.
 
+---
+## Dashboard Link (Tableau):
+https://public.tableau.com/views/h8dsft_Milestone1_Reza-Muhammad-Rhafi/Dashboard1?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
+
+
 ## Latar Belakang Masalah 📋
 
 Gaya hidup mahasiswa merupakan salah satu aspek penting yang dapat memengaruhi keberhasilan akademik mereka. Berbagai aktivitas harian, seperti:
